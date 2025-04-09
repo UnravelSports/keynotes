@@ -3,6 +3,8 @@
 
 This repository contains a selection of keynotes, guest lectures and other presentations by ([Joris Bekkers](https://www.linkedin.com/in/joris-bekkers-33138288/)) on Sports Analytics topics.
 
-- [**Advanced Soccer Analytics, Open-Sourced:** _you don't have to reinvent the wheel!_. April 8th 2025](html/20250408-Rice-University.html)
+The easiest way to view these presentations is simply click on the link(s) below.
+
+- [**Advanced Soccer Analytics, Open-Sourced:** _you don't have to reinvent the wheel!_. April 8th 2025](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250408-Rice-University.html)
 
   <small>Rice University Soccer Analytics Class (60-minute Guest Lecture)<small>
