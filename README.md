@@ -5,6 +5,16 @@ This repository contains a selection of keynotes, guest lectures and other prese
 
 The easiest way to view these presentations is simply click on the link(s) below.
 
-- [**Advanced Soccer Analytics, Open-Sourced:** _you don't have to reinvent the wheel!_. April 8th 2025](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250408-Rice-University.html)
+- [**Advanced Soccer Analytics, Open-Sourced:** _you don't have to reinvent the wheel!_.](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250408-Rice-University.html) 
 
-  <small>Rice University Soccer Analytics Class (60-minute Guest Lecture)<small>
+  <small>April 8th 2025 | Rice University Soccer Analytics Class (60-minute Guest Lecture)</small>
+
+
+- [**Rendering Football Data in 3D** with Rust and Bevy.](https://github.com/UnravelSports/rs-football-3d)  
+
+  <small>April 6th 2023 | PySport Meetup Eindhoven 2023</small>
+
+
+- [**A Graph Neural Network Deep-Dive into Successfull Counterattacks.**](https://github.com/USSoccerFederation/ussf_ssac_23_soccer_gnn) 
+
+  <small>March 3rd 2023 | MIT Sloan Sports Analytics Conference 2023</small>
