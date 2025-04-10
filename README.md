@@ -5,7 +5,7 @@ This repository contains a selection of keynotes, guest lectures and other prese
 
 The easiest way to view these presentations is simply click on the link(s) below.
 
-- [**Advanced Soccer Analytics, Open-Sourced:** _you don't have to reinvent the wheel!_.](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250408-Rice-University.html) 
+- [**Advanced Soccer Analytics, Open-Sourced:** _you don't have to reinvent the wheel!_](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250408-Rice-University.html) 
 
   <small>April 8th 2025 | Rice University Soccer Analytics Class (60-minute Guest Lecture)</small>
 
