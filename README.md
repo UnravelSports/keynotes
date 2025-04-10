@@ -15,6 +15,6 @@ The easiest way to view these presentations is simply click on the link(s) below
   <small>April 6th 2023 | PySport Meetup Eindhoven 2023</small>
 
 
-- [**A Graph Neural Network Deep-Dive into Successfull Counterattacks.**](https://github.com/USSoccerFederation/ussf_ssac_23_soccer_gnn) 
+- [**A Graph Neural Network Deep-Dive into Successful Counterattacks.**](https://github.com/USSoccerFederation/ussf_ssac_23_soccer_gnn) 
 
   <small>March 3rd 2023 | MIT Sloan Sports Analytics Conference 2023</small>
