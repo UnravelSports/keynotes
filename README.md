@@ -7,11 +7,11 @@ The easiest way to view these presentations is simply click on the link(s) below
 
 - [**An Introduction to Football Analytics:** _Cameroon at the World Cup 2022_](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250430-AIMS-Cameroon.html) 
 
-  <small>April 30th 2025 | [AIMS Cameroon](https://aims-cameroon.org/)</small>
+  <small>April 30th 2025 | [AIMS Cameroon](https://aims-cameroon.org/), Guest Lecture</small>
 
 - [**Advanced Soccer Analytics, Open-Sourced:** _you don't have to reinvent the wheel!_](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250408-Rice-University.html) 
 
-  <small>April 8th 2025 | [Rice University](https://sport.rice.edu/sport-analytics) Soccer Analytics Class</small>
+  <small>April 8th 2025 | [Rice University](https://sport.rice.edu/sport-analytics) Soccer Analytics Class, Guest Lecture</small>
 
 
 - [**Rendering Football Data in 3D** with Rust and Bevy.](https://github.com/UnravelSports/rs-football-3d)  
