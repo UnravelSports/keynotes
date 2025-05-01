@@ -5,7 +5,7 @@ This repository contains a selection of keynotes, guest lectures and other prese
 
 The easiest way to view these presentations is simply click on the link(s) below.
 
-- [**An Introduction to Football Analytics:** _Cameroon at the World Cup 2022_](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250408-Rice-University.html) 
+- [**An Introduction to Football Analytics:** _Cameroon at the World Cup 2022_](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250430-AIMS-Cameroon.html) 
 
   <small>April 8th 2025 | [AIMS Cameroon](https://aims-cameroon.org/) (60-minute Guest Lecture)</small>
 
