@@ -5,6 +5,8 @@ This repository contains a selection of keynotes, guest lectures and other prese
 
 The easiest way to view these presentations is simply click on the link(s) below.
 
+- [**Cutting Edge Football Analytics:** _using `polars`, `keras` and `spektral`_](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250607-PyData-London.html) 
+
 - [**An Introduction to Football Analytics:** _Cameroon at the World Cup 2022_](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250430-AIMS-Cameroon.html) 
 
   <small>April 30th 2025 | [AIMS Cameroon](https://aims-cameroon.org/), Guest Lecture</small>
@@ -22,3 +24,4 @@ The easiest way to view these presentations is simply click on the link(s) below
 - [**A Graph Neural Network Deep-Dive into Successful Counterattacks.**](https://github.com/USSoccerFederation/ussf_ssac_23_soccer_gnn) 
 
   <small>March 3rd 2023 | [MIT Sloan Sports Analytics Conference](https://www.sloansportsconference.com/), Boston 2023</small>
+
