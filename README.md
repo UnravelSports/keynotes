@@ -7,6 +7,8 @@ The easiest way to view these presentations is simply click on the link(s) below
 
 - [**Cutting Edge Football Analytics:** _using `polars`, `keras` and `spektral`_](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250607-PyData-London.html) 
 
+  <small>June 7th 2025 | [PyData London](https://cfp.pydata.org/london2025/), Talk</small>
+
 - [**An Introduction to Football Analytics:** _Cameroon at the World Cup 2022_](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250430-AIMS-Cameroon.html) 
 
   <small>April 30th 2025 | [AIMS Cameroon](https://aims-cameroon.org/), Guest Lecture</small>
