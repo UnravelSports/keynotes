@@ -5,7 +5,7 @@ This repository contains a selection of keynotes, guest lectures and other prese
 
 The easiest way to view these presentations is simply click on the link(s) below.
 
-- [**Cutting Edge Football Analytics:** _using `polars`, `keras` and `spektral`_](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250607-PyData-London.html) 
+- 🌀 [**Cutting Edge Football Analytics:** _using `polars`, `keras` and `spektral`_](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250607-PyData-London.html) 
 
   <small>June 7th 2025 | [PyData London](https://cfp.pydata.org/london2025/), Talk</small>
 
