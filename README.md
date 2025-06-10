@@ -5,15 +5,15 @@ This repository contains a selection of keynotes, guest lectures and other prese
 
 The easiest way to view these presentations is simply click on the link(s) below.
 
-- 🌀 [**Cutting Edge Football Analytics:** _using `polars`, `keras` and `spektral`_](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250607-PyData-London.html) 
+- 🌀 [**Cutting Edge Football Analytics:** _using `polars`, `keras` and `spektral`_](https://rawcdn.githack.com/UnravelSports/keynotes/main/html/20250607-PyData-London.html) 
 
   <small>June 7th 2025 | [PyData London](https://cfp.pydata.org/london2025/), Talk</small>
 
-- [**An Introduction to Football Analytics:** _Cameroon at the World Cup 2022_](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250430-AIMS-Cameroon.html) 
+- [**An Introduction to Football Analytics:** _Cameroon at the World Cup 2022_](https://rawcdn.githack.com/UnravelSports/keynotes/main/html/20250430-AIMS-Cameroon.html) 
 
   <small>April 30th 2025 | [AIMS Cameroon](https://aims-cameroon.org/), Guest Lecture</small>
 
-- [**Advanced Soccer Analytics, Open-Sourced:** _you don't have to reinvent the wheel!_](https://htmlpreview.github.io/?https://github.com/UnravelSports/keynotes/blob/main/html/20250408-Rice-University.html) 
+- [**Advanced Soccer Analytics, Open-Sourced:** _you don't have to reinvent the wheel!_](https://rawcdn.githack.com/UnravelSports/keynotes/main/html/20250408-Rice-University.html) 
 
   <small>April 8th 2025 | [Rice University](https://sport.rice.edu/sport-analytics) Soccer Analytics Class, Guest Lecture</small>
 
