@@ -5,7 +5,7 @@ This repository contains a selection of keynotes, guest lectures and other prese
 
 The easiest way to view these presentations is simply click on the link(s) below.
 
-- 🌀 [**An Introduction to Football Analytics:** _Federația Română de Fotbal_](https://rawcdn.githack.com/UnravelSports/keynotes/main/html/20250804-Federatia-Romana-de-Fotbal.html) 
+- 🇷🇴 [**An Introduction to Football Analytics:** _Federația Română de Fotbal_](https://rawcdn.githack.com/UnravelSports/keynotes/main/html/20250804-Federatia-Romana-de-Fotbal.html) 
 
 
   <small>August 4th 2025 | [FRF Data Camp](https://www.frf.ro/recomandate/frf-intelligence-centre-lanseaza-data-camp-unde-datele-intalnesc-fotbalul/), Guest Talk</small>
@@ -14,11 +14,11 @@ The easiest way to view these presentations is simply click on the link(s) below
 
   <small>June 7th 2025 | [PyData London](https://cfp.pydata.org/london2025/), Talk</small>
 
-- [**An Introduction to Football Analytics:** _Cameroon at the World Cup 2022_](https://rawcdn.githack.com/UnravelSports/keynotes/main/html/20250430-AIMS-Cameroon.html) 
+- 🇨🇲 [**An Introduction to Football Analytics:** _Cameroon at the World Cup 2022_](https://rawcdn.githack.com/UnravelSports/keynotes/main/html/20250430-AIMS-Cameroon.html) 
 
   <small>April 30th 2025 | [AIMS Cameroon](https://aims-cameroon.org/), Guest Lecture</small>
 
-- [**Advanced Soccer Analytics, Open-Sourced:** _you don't have to reinvent the wheel!_](https://rawcdn.githack.com/UnravelSports/keynotes/main/html/20250408-Rice-University.html) 
+- 🇺🇸 [**Advanced Soccer Analytics, Open-Sourced:** _you don't have to reinvent the wheel!_](https://rawcdn.githack.com/UnravelSports/keynotes/main/html/20250408-Rice-University.html) 
 
   <small>April 8th 2025 | [Rice University](https://sport.rice.edu/sport-analytics) Soccer Analytics Class, Guest Lecture</small>
 
