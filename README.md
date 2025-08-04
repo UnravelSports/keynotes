@@ -5,6 +5,11 @@ This repository contains a selection of keynotes, guest lectures and other prese
 
 The easiest way to view these presentations is simply click on the link(s) below.
 
+- 🌀 [**An Introduction to Football Analytics:** _Federația Română de Fotbal_](https://rawcdn.githack.com/UnravelSports/keynotes/main/html/20250804-Federatia-Romana-de-Fotbal.html) 
+
+
+  <small>August 4th 2025 | [FRF Data Camp](https://www.frf.ro/recomandate/frf-intelligence-centre-lanseaza-data-camp-unde-datele-intalnesc-fotbalul/), Guest Talk</small>
+
 - 🌀 [**Cutting Edge Football Analytics:** _using `polars`, `keras` and `spektral`_](https://rawcdn.githack.com/UnravelSports/keynotes/main/html/20250607-PyData-London.html) 
 
   <small>June 7th 2025 | [PyData London](https://cfp.pydata.org/london2025/), Talk</small>
